@@ -22,5 +22,5 @@ class Scrapper():
 
 #session = HTMLSession()
 #r = session.get('https://quotes.toscrape.com/')
-quotes = Scrapper()
-quotes.scrapedata('life')
+#quotes = Scrapper()
+#quotes.scrapedata('life')
